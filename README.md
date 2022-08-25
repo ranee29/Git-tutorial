@@ -2,5 +2,8 @@
 #Author
 Ranee Daniel M. Ong Eng
 
-# Installation Guide
+# Installation
 Visit git documentaion
+
+# Version
+1.1
